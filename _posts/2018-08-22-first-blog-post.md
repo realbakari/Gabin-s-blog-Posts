@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Welcome to my blog
 author: Gabin Nshimirimana
 categories:
 - General
