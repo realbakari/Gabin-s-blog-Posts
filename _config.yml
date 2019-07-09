@@ -12,12 +12,12 @@ plugins:
 - jekyll-paginate
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://blog.gabinnshimirimana.com/'
 baseurl: ''
-title: 'My blog'
+title: 'Gabin Nshimirimana'
 description: 'This is my new blog'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
+logo: "https://gabinnshimirimana.com/images/gabin_nshimirimana_headshot.png"
 
 # Pagination
 paginate: 5
@@ -28,4 +28,4 @@ collections:
   posts:
     title: Blog
     output: true
-    description: "There isn't much going on here yet, but watch this space"
+    description: "Encouraging stories"
