@@ -6,4 +6,4 @@ categories:
 - Quote
 feature_image: ""
 ---
-Humbleness can take you from nowhere to somewhere.
+Humbleness can take you from nowhere to somewhere, from nobody to somebody.
