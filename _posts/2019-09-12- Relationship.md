@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frienship & Relationships
+title: Relationships
 author: Gabin Nshimirimana
 categories:
 - Quote
