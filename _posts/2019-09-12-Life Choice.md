@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Humbleness
+title: Life
 author: Gabin Nshimirimana
 categories:
 - Quote
