@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awareness
+title: Education
 author: Gabin Nshimirimana
 categories:
 - Quote
