@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Choice
+title: Smart-Choice
 author: Gabin Nshimirimana
 categories:
 - Quote
