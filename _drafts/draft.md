@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome To My Blog
+title: Welcome To My Blog!
 author: Gabin Nshimirimana
 categories:
 - General
