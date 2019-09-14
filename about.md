@@ -10,4 +10,5 @@ I have decided to create this blog so I can share amazing stories about successf
 For any inquiries, suggestions or even comments, feel free to contact me directly through my email address or mobile phone below.
 
 Email address: Nshimirimana.gabin@hotmail.com
+
 Mobile phone: +61413391004
