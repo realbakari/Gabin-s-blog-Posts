@@ -20,4 +20,5 @@ fields:
     maxSize: 64
   label: feature_image
 pages:
+- _posts/maturity-respect.md
 - _posts/secret-of-the-future.md
