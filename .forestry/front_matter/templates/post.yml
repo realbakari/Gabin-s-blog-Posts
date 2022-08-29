@@ -20,6 +20,6 @@ fields:
     maxSize: 64
   label: feature_image
 pages:
-- _posts/acceptance.md
+- _posts/2022-08-29-acceptance.md
 - _posts/maturity-respect.md
 - _posts/secret-of-the-future.md
