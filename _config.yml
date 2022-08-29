@@ -7,17 +7,15 @@ exclude:
 - Gemfile
 - Gemfile.lock
 
-# Set plugins
+
+# 2. Installed Gems
 plugins:
 - jekyll-paginate
 
-# Site settings
-url: 'https://blog.gabinnshimirimana.com/'
-baseurl: ''
-title: 'Gabin Nshimirimana'
-description: 'My name is Gabin Nshimirimana, I am a passionate and self-driven second year Mathematics and Science student at the University of Queensland (UQ)'
-permalink: pretty
-logo: "https://gabinnshimirimana.com/images/gabin_nshimirimana_headshot.png"
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: page:num # jekyll-paginate > blog page
+
 
 # Pagination
 paginate: 5
@@ -29,3 +27,27 @@ collections:
     title: Welcome to my Blog
     output: true
     description: ""
+    
+ # 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post # Default layout
+      
+# Site settings
+url: 'https://blog.gabinnshimirimana.com/'
+baseurl: ''
+title: 'Gabin Nshimirimana'
+description: 'My name is Gabin Nshimirimana, I am a passionate and self-driven second year Mathematics and Science student at the University of Queensland (UQ)'
+permalink: pretty
+logo: "https://gabinnshimirimana.com/images/gabin_nshimirimana_headshot.png"
+lang: en-GB
