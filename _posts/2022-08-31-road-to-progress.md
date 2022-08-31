@@ -6,4 +6,4 @@ categories: []
 feature_image: ''
 
 ---
-You should not be afraid of going slowly, but you must be afraid of standing still. Remember that one small step can lead to success. \[inspiration from a Chinese proverb\]
+You should not be afraid of going slowly, but you must be afraid of standing still. Remember that one small step can lead to success. \[Inspiration from a Chinese proverb\]
