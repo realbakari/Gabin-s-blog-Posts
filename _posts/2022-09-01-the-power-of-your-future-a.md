@@ -1,6 +1,6 @@
 ---
 layout: Posts
-title: The Power of Your Future (A)
+title: Understanding Your Past
 author: 'Gabin NSHIMIRIMANA '
 categories: []
 feature_image: ''
